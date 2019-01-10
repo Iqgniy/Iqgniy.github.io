@@ -2,18 +2,18 @@
 layout:     post
 title:      从一道网易面试题浅谈 Tagged Pointer
 subtitle:   浅谈 Tagged Pointer
-date:       2017-12-26
+date:       2019-01-11
 author:     Iqgniy
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
-    - iOS
+    - IOS
 ---
 
 
 ## 前言
 
-这篇博客九月就想写了，因为赶项目拖了到现在，抓住17年尾巴写吧~
+这篇博客是我用来测试用的~
 
 
 ## 正文
