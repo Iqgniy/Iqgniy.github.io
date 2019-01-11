@@ -4,7 +4,7 @@ title:      从一道网易面试题浅谈 Tagged Pointer
 subtitle:   浅谈 Tagged Pointer
 date:       2019-01-11
 author:     Iqgniy
-header-img: img/post-bg-universe.jpg
+header-img: img/post-bg-yuzhou.jpg
 catalog: true
 tags:
     - IOS
