@@ -106,7 +106,11 @@ friends: [
         href: "https://www.jianshu.com"
     },   
     {
-        title: "微信公众号",
-        href: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU2NTY4Nzc4Mg==#wechat_redirect"
+        title: "Google Analytics",
+        href: "https://analytics.google.com"
+    },
+    {
+        title: "Baidu Analytics",
+        href: "https://tongji.baidu.com"
     }    
 ]
