@@ -1,4 +1,4 @@
-﻿---
+---
 layout:     post
 title:      How To Secure A Linux Server
 subtitle:   用于保护Linux服务器的不断发展的操作指南。
