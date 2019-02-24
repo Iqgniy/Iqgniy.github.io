@@ -7,7 +7,7 @@ author:     Iqgniy
 header-img: img/post-bg-sysctl.jpg
 catalog: true
 tags:
-    - Linux server
+    - Linux server 
 ---
 # Linux Kernel `sysctl` Hardening
 
