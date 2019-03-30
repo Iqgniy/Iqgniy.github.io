@@ -270,5 +270,5 @@ ga_domain: xxxxxxxx			# 默认的是 auto, 这里我是自定义了的域名，�
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/iqgniy/iqgniy.github.io/blob/master/LICENSE)。
 
