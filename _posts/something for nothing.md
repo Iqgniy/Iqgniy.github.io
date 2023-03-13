@@ -9,3 +9,5 @@ catalog: true
 tags:
     - something 
 ---
+
+# something for nothing
